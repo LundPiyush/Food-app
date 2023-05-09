@@ -1,0 +1,31 @@
+.menu-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 3em 10em;
+}
+
+.card {
+  border: 1px solid red;
+  width: 250px;
+  height: 400px;
+  padding: 1em;
+  margin: 1em;
+}
+
+.card img {
+  width: 100%;
+}
+
+.menu-nav {
+  display: flex;
+}
+
+.menu-nav span {
+  margin-right: 1em;
+}
+
+.menu-heading {
+  font-weight: bold;
+  margin-left: 10em;
+}
